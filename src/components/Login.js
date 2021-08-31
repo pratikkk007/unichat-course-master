@@ -15,7 +15,7 @@ const Login = () => {
                     className="login-button google"
                     onClick= { () => auth.signInWithRedirect (new firebase.auth.GoogleAuthProvider())}
                 >
-                    <GoogleOutlined /> Sign in with Google
+                    <GoogleOutlined /> SignIn with Google
                 </div>
 
                 <br /> <br />
