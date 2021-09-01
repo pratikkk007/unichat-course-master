@@ -1,7 +1,7 @@
 import firebase from "firebase/app";
 import "firebase/auth";
 
-export const auth = firebase.initializeApp( {
+export const auth = firebase.initializeApp({
     apiKey: "AIzaSyAmlufcnJs7a_cg5LZ-YXCsqpcGoSZP5fM",
     authDomain: "converse-ab5db.firebaseapp.com",
     projectId: "converse-ab5db",
