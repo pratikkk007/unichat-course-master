@@ -5,6 +5,7 @@ import 'firebase/firestore';
 
 import { auth } from './firebase';
 import firebase from 'firebase/app';
+
 const Login = () => {
     return (
         <div id="login-page">
